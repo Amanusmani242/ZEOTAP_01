@@ -32,7 +32,7 @@ Ensure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash or Vscode terminal
-  https://github.com/Amanusmani242/ZEOTAP_01.git
+      https://github.com/Amanusmani242/ZEOTAP_01.git
 2.    ```
           cd backend
       ```
